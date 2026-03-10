@@ -1,0 +1,5 @@
+{
+  "name": "AIS Invoice Pro",
+  "description": "Transform messy documents into professional invoices using AI. Connect your Google Drive to extract data from PDFs and docs instantly.",
+  "requestFramePermissions": []
+}
